@@ -1,0 +1,40 @@
+.header {
+  background-color: #6E3B01;
+  color: #ffffff;
+  padding: 15px;
+}
+
+.home{
+  background-color: #6E3B01;
+  text-align: center;
+  margin-right: 14px;
+
+}
+
+.sidebar{
+  background-color: #6E3B01;
+  color: #ffffff;
+}
+
+a{
+  text-decoration: none;
+  color: #000000;
+  font-style: Bold;
+  font-family: Ariel;
+  font-size: 24px;
+}
+
+.mainTitle{
+ text-decoration: underline;
+}
+
+.ProductsTitle{
+  font-family: Microsoft Himalaya;
+  font-size: 42px;
+  text-decoration: underline;
+}
+
+.products{
+  font-size: 24px;
+  font-family: MS PGothic;
+}
